@@ -1,1 +1,1 @@
-site: https://lewy3.github.io/xfxfc.io/
+site: https://seb1kz.github.io/xfxfc.io/
